@@ -1,1 +1,2 @@
 # XYZ-Sports-Company-Customer-Segmentation
+This project was developed in the Data Mining's course. The goal was to use unsupervised learning techniques to better understand the type of customer's clusters, and later provide marketing strategies to better serve these customers. We firmly believe that our work will be essential in better understanding the company's customers and understand the values and demographics of each cluster.
